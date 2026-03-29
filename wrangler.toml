@@ -1,0 +1,7 @@
+name = "telegram-ai-worker"
+main = "src/worker.js"
+compatibility_date = "2026-03-06"
+
+[[kv_namespaces]]
+binding = "CHAT_KV"
+id = "YOUR_KV_ID"

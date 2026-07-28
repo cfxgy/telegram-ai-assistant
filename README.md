@@ -2,7 +2,6 @@
 
 一个基于 **Cloudflare Workers** 的 Telegram 私人 AI 助手：支持多模型切换、上下文对话与智能长期记忆，并通过 Token 优化策略降低推理成本。
 
-- 详细部署教程： https://bitcn.top/archives/63
 
 ---
 

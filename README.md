@@ -152,4 +152,3 @@ Telegram API ──POST──▶ Cloudflare Worker (worker.js)
 ## License
 
 MIT
-```

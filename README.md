@@ -1,4 +1,3 @@
-```markdown
 # Telegram AI Assistant
 
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-orange)](https://workers.cloudflare.com/)

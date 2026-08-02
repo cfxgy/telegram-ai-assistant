@@ -1,6 +1,8 @@
 # Telegram AI Assistant
 
-一个基于 Cloudflare Workers 的 Telegram AI 助手。项目采用 Telegram Webhook、Cloudflare KV 和 OpenAI 兼容接口，提供多模型对话、短期上下文、长期记忆以及用户级 AI 配置。
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-orange)](https://workers.cloudflare.com/)
+
+一个基于 **Cloudflare Workers** 的 Telegram AI 助手。项目采用 Telegram Webhook、Cloudflare KV 和 OpenAI 兼容接口，提供多模型对话、短期上下文、长期记忆以及用户级 AI 配置。
 
 适合个人助手、内部机器人和低流量场景。生产环境部署前，请根据实际并发量评估 Durable Objects、限流和持久化方案。
 

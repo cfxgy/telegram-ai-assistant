@@ -5,3 +5,7 @@ compatibility_date = "2026-03-06"
 [[kv_namespaces]]
 binding = "CHAT_KV"
 id = "YOUR_KV_ID"
+
+[vars]
+# Comma-separated Telegram user/chat IDs. Set this as a secret or variable in production.
+# TG_ALLOWED_USER_IDS = "123456789"
